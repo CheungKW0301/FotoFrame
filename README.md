@@ -4,3 +4,21 @@
 
 FotoFrame is program for adding square frame to images.
 
+## Usage
+
+1. Select the input folder that contains targeted images.
+
+2. Select the destinated folder for exporting processed images.
+
+3. Select images in the right panel.
+
+4. choose preferred frame color and image position.
+
+KeyPress is also supported:
+Up: Move up
+Down: Move down
+Left Move left
+Right: Move right
+Home: reset
+
+5. Click "Convert" button.
