@@ -13,12 +13,13 @@ FotoFrame is program for adding square frame to images.
 3. Select images in the right panel.
 
 4. choose preferred frame color and image position.
-
+```bash
 KeyPress is also supported:
+
 Up: Move up
 Down: Move down
 Left Move left
 Right: Move right
 Home: reset
-
+```
 5. Click "Convert" button.
